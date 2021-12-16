@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Hi, it's me"
-date:   2014-12-10
+date:   2021-12-16
 ---
 
-<p class="intro"><span class="dropcap">저는요
+<p class="intro"><span class="dropcap">저는요<p>
+
 
 20213045 이어진 kookminuniv.

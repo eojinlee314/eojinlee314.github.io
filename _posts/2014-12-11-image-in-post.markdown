@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  "Markdown"
-date:   2014-12-11
+date:   2021-12-16
 ---
 
-<p class="intro"><span class="dropcap">What is Markdown?
-
-<img src="/assets/img/touring.jpg" alt=""> 
+<p class="intro"><span class="dropcap">What is Markdown?<p>
 
 Markdown이란 나도 잘 몰라 ㅎ
