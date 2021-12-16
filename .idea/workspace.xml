@@ -1,17 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d1b716e-c94f-43fa-8de4-13e797a37787" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="22MmyrdJ78DUngi9bTA5A9PR7UI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d1b716e-c94f-43fa-8de4-13e797a37787" name="Default Changelist" comment="" />
+      <created>1639656087866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639656087866</updated>
+    </task>
+    <servers />
   </component>
   <component name="WindowStateProjectService">
     <state x="454" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1639656191226">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="454" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1639656191226" />
+    <state x="610" y="90" width="761" height="933" key="CommitChangelistDialog2" timestamp="1639656353150">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="610" y="90" width="761" height="933" key="CommitChangelistDialog2/72.27.1848.1053@72.27.1848.1053" timestamp="1639656353150" />
+    <state x="591" y="288" width="800" height="538" key="Vcs.Push.Dialog.v2" timestamp="1639656362834">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="591" y="288" width="800" height="538" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1639656362834" />
   </component>
 </project>
