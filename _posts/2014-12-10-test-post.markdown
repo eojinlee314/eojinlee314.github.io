@@ -4,7 +4,8 @@ title:  "Profile"
 date:   2021-12-16
 ---
 
-<p class="intro"><span class="dropcap">"Hello, it's me"<p>
+<p class="intro">"Hello, it's me"<p>
 
 kookminuniv. computerscience
+
 20213045 이어진
